@@ -2,7 +2,7 @@
   {
     "name": "آپدیت جدید رسید",
     "text": "همین الان برای نصب جدید ترین نسخه اقدام کنید",
-    "update": false,
+    "update": true,
     "link": "",
     "mode": true
   }
